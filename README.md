@@ -1,2 +1,4 @@
 # Web de TIC1 de Joan Puigcerver
-Esta web está publicada en [este enlace](https://iesserpis-tic1.github.io/PuigcerverJoanWeb/).
+En este repositorio se almacenan las soluciones de los ejercicios de la asignatura TIC1 de Joan Puigcerver.
+
+Este repositorio esta publicado en: https://iesserpis-tic1.github.io/PuigcerverJoanWeb/
