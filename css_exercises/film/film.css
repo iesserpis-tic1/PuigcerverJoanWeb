@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    font-weight: bold;
+}
+
+#release-date{
+    background-color: lightskyblue;
+}
+
+#argument {
+    font-style: italic;
+    font-size: 1.25em;
+}
+
+ul {
+    color: brown;
+    list-style: square;
+}
+
+.bold {
+    font-weight: bold;
+}
