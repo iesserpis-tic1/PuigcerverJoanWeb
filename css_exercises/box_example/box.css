@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    text-align: justify;
+    background-color: lightskyblue;
+    border: 5px dashed red;
+    padding: 10px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+
+.text {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: yellowgreen;
+    text-align: center;
+    width: 300px;
+}
