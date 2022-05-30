@@ -1,0 +1,35 @@
+.flex-container {
+    background-color: lightskyblue;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.box {
+    min-width: 100px;
+    min-height: 100px;
+    padding: 1em;
+    background-color: gray;
+}
+
+#b1 {
+    background-color: red;
+    min-height: 150px;
+    order: 1;
+    flex-grow: 1;
+}
+#b2 {
+    background-color: green;
+    min-height: 70px;
+    flex-grow: 1;
+}
+#b3 {
+    padding-top: 50px;
+    background-color: yellow;
+    min-height: 200px;
+    flex-grow: 2;
+}
