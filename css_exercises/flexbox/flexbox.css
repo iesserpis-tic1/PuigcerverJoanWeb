@@ -1,0 +1,36 @@
+nav {
+    background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.button {
+    background-color: lightskyblue;
+    padding: 10px;
+}
+
+#first {
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+#second {
+    flex-direction: column-reverse;
+}
+
+#third {
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+}
+
+#fourth > .button {
+    flex-grow: 1;
+}
+#fourth > .b3 {
+    order: -1;
+}
+#fourth > .b2 {
+    flex-grow: 2;
+}
